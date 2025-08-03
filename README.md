@@ -1,4 +1,7 @@
-# AbdulRauf23
+<p align="right">
+  <sub><code>AbdulRauf23</code></sub>
+</p>
+
 # Hi 👋, I'm Abdul Rauf
 <p align="left">
   <a href="https://www.facebook.com/share/15gMd1gAE5/" target="_blank">
