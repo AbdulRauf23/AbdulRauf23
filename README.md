@@ -24,11 +24,11 @@
 
 ### 🚀 What I Do
 
-- 🔹 Architecting **serverless data solutions** using AWS (Lambda, S3, EventBridge, SNS, EC2, Athena, SQS, DynamoDB, Redshift)
-- 🔹 Developing real-time **data ingestion pipelines** using Python & REST APIs
-- 🔹 Building & orchestrating ETL workflows with **Apache Airflow**, NiFi, and automation logic
-- 🔹 Working with **SQL Server** and integrating cloud-native event-driven data systems
-- 🔹 Writing production-ready, testable code for large-scale data platforms
+🔹 Architecting **serverless data solutions** using AWS (Lambda, S3, EventBridge, SNS, EC2, Athena, SQS, DynamoDB, Redshift)
+🔹 Developing real-time **data ingestion pipelines** using Python & REST APIs
+🔹 Building & orchestrating ETL workflows with **Apache Airflow**, NiFi, and automation logic
+🔹 Working with **SQL Server** and integrating cloud-native event-driven data systems
+🔹 Writing production-ready, testable code for large-scale data platforms
 
 ---
 
@@ -53,10 +53,3 @@
 
 ![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulRauf23&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRauf23&layout=compact&theme=radical)
-
----
-
-### 📫 Contact Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link) *(replace with your actual LinkedIn)*
-- 📧 Email: `your.email@example.com` *(optional)*
