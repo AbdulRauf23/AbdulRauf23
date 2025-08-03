@@ -1,6 +1,3 @@
-<p align="left">
-  <sub><code>AbdulRauf23</code></sub>
-</p>
 
 # Hey 👋, I'm Abdul Rauf!
 <p align="left">
