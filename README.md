@@ -20,7 +20,6 @@
 🎓 **Software Engineer (BSSE) from IOBM**  
 💼 **Data Engineer** | Passionate about building modern data platforms and pipelines
 
----
 
 ### 🚀 What I Do
 
@@ -46,7 +45,6 @@
 #### 🧰 Dev & Monitoring Tools
 `Docker` `GitHub` `VS Code` `CloudWatch`
 
----
 
 ### 📈 GitHub Stats
 
