@@ -30,7 +30,6 @@
 - Working with **SQL Server** and integrating cloud-native event-driven data systems
 - Writing production-ready, testable code for large-scale data platforms
 
----
 
 ### 💻 Tools & Technologies
 
