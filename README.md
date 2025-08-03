@@ -24,11 +24,11 @@
 
 ### 🚀 What I Do
 
-🔹 Architecting **serverless data solutions** using AWS (Lambda, S3, EventBridge, SNS, EC2, Athena, SQS, DynamoDB, Redshift)
-🔹 Developing real-time **data ingestion pipelines** using Python & REST APIs
-🔹 Building & orchestrating ETL workflows with **Apache Airflow**, NiFi, and automation logic
-🔹 Working with **SQL Server** and integrating cloud-native event-driven data systems
-🔹 Writing production-ready, testable code for large-scale data platforms
+-  Architecting **serverless data solutions** using AWS (Lambda, S3, EventBridge, SNS, EC2, Athena, SQS, DynamoDB, Redshift)
+-  Developing real-time **data ingestion pipelines** using Python & REST APIs
+- Building & orchestrating ETL workflows with **Apache Airflow**, NiFi, and automation logic
+- Working with **SQL Server** and integrating cloud-native event-driven data systems
+- Writing production-ready, testable code for large-scale data platforms
 
 ---
 
