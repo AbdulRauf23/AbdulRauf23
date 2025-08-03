@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
   <sub><code>AbdulRauf23</code></sub>
 </p>
 
