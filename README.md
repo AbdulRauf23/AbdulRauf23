@@ -1,19 +1,17 @@
 # AbdulRauf23
 # Hi 👋, I'm Abdul Rauf
-<h1 align="left">Hey 👋, I'm Abdul Rauf!</h1>
-
 <p align="left">
   <a href="https://www.facebook.com/share/15gMd1gAE5/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="mailto:rauf84273@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/abdul-rauf-01342b254" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
 </p>
+
 
 🎓 **Software Engineer (BSSE) from IOBM**  
 💼 **Data Engineer** | Passionate about building modern data platforms and pipelines
