@@ -2,7 +2,7 @@
   <sub><code>AbdulRauf23</code></sub>
 </p>
 
-# Hi 👋, I'm Abdul Rauf
+# Hey 👋, I'm Abdul Rauf!
 <p align="left">
   <a href="https://www.facebook.com/share/15gMd1gAE5/" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" height="40"/>
