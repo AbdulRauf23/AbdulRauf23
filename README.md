@@ -12,6 +12,7 @@
   </a>
 </p>
 
+### About Me 🚀
 
 🎓 **Software Engineer (BSSE) from IOBM**  
 💼 **Data Engineer** | Passionate about building modern data platforms and pipelines
